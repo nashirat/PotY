@@ -8,9 +8,6 @@
  <p align="center">
   <a href="https://poty-43e91.web.app/">Live Demo</a>
   <br><br>
-</p>
-   <p align="center">TIME'S 100 2021 website information.
-</p>
     <br>
     <br>
   </p>
