@@ -5,9 +5,10 @@
   </a>
 
   <h3 align="center">Person of the Year 2021</h3>
-  <a href="https://poty-43e91.web.app/">
-    <h3 align="center">Live Demo</h3>
-  </a>
+ <p align="center">
+  <a href="https://poty-43e91.web.app/">Live Demo</a>
+  <br><br>
+</p>
    My own take of TIME'S Poty 2021
     <br>
     <br>
