@@ -9,7 +9,8 @@
   <a href="https://poty-43e91.web.app/">Live Demo</a>
   <br><br>
 </p>
-   <a align="center">My own take of TIME'S Poty 2021</a>
+   <p align="center">TIME'S 100 2021 website information.
+</p>
     <br>
     <br>
   </p>
