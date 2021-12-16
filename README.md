@@ -9,7 +9,7 @@
   <a href="https://poty-43e91.web.app/">Live Demo</a>
   <br><br>
 </p>
-   My own take of TIME'S Poty 2021
+   <a align="center">My own take of TIME'S Poty 2021</a>
     <br>
     <br>
   </p>
