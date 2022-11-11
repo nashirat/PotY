@@ -69,7 +69,7 @@ export default class Header {
             }
 
             p5.setup = function () {
-                p5.frameRate(120);
+                p5.frameRate(60);
                 cnv = p5.createCanvas(dW, dH);
                 cnv.parent(div);
                 p5.watchWindowSize();
